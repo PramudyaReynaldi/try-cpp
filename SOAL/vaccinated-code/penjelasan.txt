@@ -1,0 +1,7 @@
+Penjelasan:
+
+Pertama-tama, program meminta input dari pengguna berupa string yang merupakan nomor vaksinasi.
+Kemudian, program memanggil fungsi isValidVaccinationCode() untuk memastikan apakah kode vaksinasi valid atau tidak.
+Fungsi isValidVaccinationCode() melakukan beberapa pengecekan:
+Memastikan panjang kode vaksinasi tepat 12 karakter.
+Memastikan 3 karakter pertama hur
